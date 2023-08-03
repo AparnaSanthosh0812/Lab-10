@@ -6,7 +6,7 @@ An extensive amount of data about public libraries in Ontario can be found in th
 
 Instructions for Running the Code
 
- 1. Make sure you have installed Python and the required libraries (e.g., Pandas, NumPy, scikit-learn, Matplotlib, Seaborn) on your machine or Jupyter Notebook environment.
+ 1. Make sure you have installed Python and the required libraries (e.g., Pandas, NumPy, Matplotlib, Seaborn) on your machine or Jupyter Notebook environment.
 
 2. Data Loading: Ensure that you have the respective datasets in a format that can be read by Pandas (e.g., CSV, Excel). Use pd.read_csv() or similar functions to load the data into Pandas DataFrames.
 
@@ -14,7 +14,7 @@ Instructions for Running the Code
 
 4. Exploratory Data Analysis (EDA): Perform EDA to gain insights into the data distribution, correlations, and relationships between features. Use Matplotlib and Seaborn for data visualization.
 
-5. Machine Learning Tasks: Depending on your objectives, apply machine learning models such as SVM, Random Forest, or other algorithms. Split the data into training and testing sets using train_test_split(), train the models, and evaluate their performance using appropriate metrics (e.g., accuracy, precision, recall).
+5. Machine Learning Tasks: Depending on your objectives, apply machine learning models such as SVM, Random Forest, or other algorithms. Split the data into training and testing sets using train_test_split(), train the models, and evaluate their performance using appropriate metrics 
 
 6. Interpretation and Analysis: Analyze the results of the machine learning models to draw meaningful conclusions about the datasets' characteristics, patterns, and potential impacts.
 
